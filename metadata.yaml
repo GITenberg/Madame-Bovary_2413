@@ -1,5 +1,5 @@
 _repo: Madame-Bovary_2413
-_version: 0.2.1
+_version: 0.2.2
 contributor:
   translator:
     agent_name: Aveling, Eleanor Marx
@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '574'
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2413#Madame-Bovary
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Banned Books from Anne Haight's list
